@@ -1,3 +1,2 @@
 User-agent: *
-Allow: /assets/img/hero-bg.jpg
 Disallow: /assets/
